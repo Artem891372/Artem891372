@@ -21,6 +21,8 @@
 - 🌐 **[pytraffic-interceptor](https://github.com/Artem891372/pytraffic-interceptor)** — Chrome-расширение: перехват WebSocket-трафика в DevTools
 - 🔀 **[simple-proxy-switcher](https://github.com/Artem891372/simple-proxy-switcher)** — Chrome-расширение: прокси с белым/чёрным списками
 
+## 📌 Закреплено на профиле: deaddrop · workout-plan-generator · solana-wallet-manager · time_track_app · pytraffic-interceptor · simple-proxy-switcher
+
 ## 📫 Связь
 
 GitHub Issues в соответствующем репозитории — самый надёжный способ.
