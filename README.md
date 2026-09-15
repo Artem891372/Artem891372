@@ -14,18 +14,13 @@
 
 ## 📌 Проекты
 
+- 📑 **[Oformitel](https://github.com/Artem891372/oformitel)** — диалект сервиса оформления документов по ГОСТ Markdown to Docx **[Оформитель.com](https://оформитель.com)**
 - 🔐 **[deaddrop](https://github.com/Artem891372/deaddrop)** — защищённый асинхронный обмен сообщениями и криптотранзакциями через недоверенного носителя (Go). Магистерский диплом
-- 💪 **[workout-plan-generator](https://github.com/Artem891372/workout-plan-generator)** — генератор программ тренировок: объёмы, сплиты, прогрессия (Streamlit)
 - 🪙 **[solana-wallet-manager](https://github.com/Artem891372/solana-wallet-manager)** — веб-менеджер кошельков Solana: балансы, свопы Jupiter, переводы (FastAPI)
-- 🕒 **[time_track_app](https://github.com/Artem891372/time_track_app)** — учёт рабочего времени с диаграммами (PyQt6 + SQLite)
 - 🌐 **[pytraffic-interceptor](https://github.com/Artem891372/pytraffic-interceptor)** — Chrome-расширение: перехват WebSocket-трафика в DevTools
 - 🔀 **[simple-proxy-switcher](https://github.com/Artem891372/simple-proxy-switcher)** — Chrome-расширение: прокси с белым/чёрным списками
 
 ---
-
-## ✍️ Оформление
-
-Создатель сервиса для оформления студенческих работ — **[Оформитель.com](https://оформитель.com)** 🎨
 
 ## 📫 Связь
 
